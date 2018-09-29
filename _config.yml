@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mojtaba Marashi / Site Title"
+title                    : "Mojtaba Marashi / Personal Site"
 title_separator          : "-"
 name                     : &name "Mojtaba Marashi"
 description              : &description "personal description"
