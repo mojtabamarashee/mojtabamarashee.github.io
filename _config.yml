@@ -182,9 +182,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  jafr:
-    output: true
-    permalink: /:collection/:path/
 
 # Defaults
 defaults:
