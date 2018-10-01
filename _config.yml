@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mojtaba Marashi / Personal Site"
+title                    : "Mojtaba Marashi / Personal2 Site"
 title_separator          : "-"
 name                     : &name "Mojtaba Marashi"
-description              : &description "personal description"
+description              : &description "personal2 description"
 url                      : "https://mojtabamarashee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mojtabamarashee/mojtabamarashee.github.io"
