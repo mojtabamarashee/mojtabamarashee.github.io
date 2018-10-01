@@ -1,5 +1,5 @@
 ---
-permalink: /jafr/jafr/
+permalink: /jafr/
 layout: null
 title: "Talks and presentations"
 author_profile: true
