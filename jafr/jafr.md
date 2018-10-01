@@ -1,6 +1,6 @@
 ---
 permalink: /jafr/jafr/
-layout: archive
+layout: none
 title: "Talks and presentations"
 author_profile: true
 ---
