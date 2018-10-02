@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Mojtaba Mar WebSite"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
