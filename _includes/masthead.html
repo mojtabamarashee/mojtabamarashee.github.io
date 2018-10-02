@@ -1,4 +1,5 @@
 {% include base_path %}
+{%color[0]= red;color[1]= red;color[2]= red;color[3]= red;color[4]= red;color[5]= red;color[6]= red;color[7]= red;color[8]= red; %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -13,7 +14,7 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" style="color:red">{{ link.title }}</a></li>
+			<li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" style="color:{{color[i]}}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
